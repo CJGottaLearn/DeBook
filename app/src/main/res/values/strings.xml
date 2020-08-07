@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeBook</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="published_date">Published Date</string>
+    <string name="category">Category</string>
+    <string name="rating">Rating</string>
+</resources>
